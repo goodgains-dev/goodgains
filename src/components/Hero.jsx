@@ -37,7 +37,7 @@ const Hero = () => {
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
             Unleash the power of Blockchain within GoodGains. Upgrade your productivity
-            with Brainwave, the open AI chat app.
+            with GoodGains, the open data chat app.
           </p>
           <Button href="/pricing" white>
             Get started
