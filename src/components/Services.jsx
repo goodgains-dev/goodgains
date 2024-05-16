@@ -69,7 +69,7 @@ const Services = () => {
                 <h4 className="h4 mb-4">Verify Credentials</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
                   Automatically enhance your credentials with the our badge system&apos;s
-                  Badge system feature. Try it now!
+                  Get verified today. Try it now!
                 </p>
               </div>
 
@@ -78,7 +78,7 @@ const Services = () => {
 
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem]">
               <div className="py-12 px-4 xl:px-8">
-                <h4 className="h4 mb-4">Video calling</h4>
+                <h4 className="h4 mb-4">Video calling & Messanging</h4>
                 <p className="body-2 mb-[2rem] text-n-3">
                   The most multi-use profile to date,as your GoodGains profile provides multiple functions. It's your digital third place.
                 </p>
