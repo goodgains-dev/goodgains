@@ -95,40 +95,40 @@ export const roadmap = [
   {
     id: "0",
     title: "Voice Chat",
-    text: "Enable the chatbot to understand and respond to voice commands, making it easier for users to interact with the app hands-free.",
+    text: "Enable your microphone to allow for voice and video calling, making it easier for users to interact with the app hands-free.",
     date: "May 2023",
-    status: "done",
+    status: "in progress",
     imageUrl: roadmap1,
     colorful: true,
   },
   {
     id: "1",
-    title: "Gamification",
-    text: "Add game-like elements, such as badges or leaderboards, to incentivize users to engage with the chatbot more frequently.",
+    title: "Wallet functionality",
+    text: "utilizing stripe and coinbase pay integration every profile serves as your wallet as well..",
     date: "May 2023",
-    status: "progress",
+    status: "done",
     imageUrl: roadmap2,
   },
   {
     id: "2",
-    title: "Chatbot customization",
-    text: "Allow users to customize the chatbot's appearance and behavior, making it more engaging and fun to interact with.",
+    title: "Organization customization",
+    text: "Allow users to customize the App;s appearance and behavior, making it more engaging and fun to interact with for organization members.",
     date: "May 2023",
-    status: "done",
+    status: "in progress",
     imageUrl: roadmap3,
   },
   {
     id: "3",
     title: "Integration with APIs",
-    text: "Allow the chatbot to access external data sources, such as weather APIs or news APIs, to provide more relevant recommendations.",
+    text: "Allow the profile to access external data sources, such as social media apps or other messanging platforms, to provide more relevant recommendations.",
     date: "May 2023",
-    status: "progress",
+    status: " in progress",
     imageUrl: roadmap4,
   },
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "With our consolidation and top-notch security thru blocklchain, it's the perfect solution for teams looking to work smarter.";
 
 export const collabContent = [
   {
@@ -138,7 +138,7 @@ export const collabContent = [
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Smart consolidation",
   },
   {
     id: "2",
@@ -208,35 +208,35 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "Basic",
+    title: "freemium",
     description: "AI chatbot, personalized recommendations",
     price: "0",
     features: [
-      "An AI chatbot that can understand your queries",
+      "A chatfeed that can understand your queries",
       "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Ability to explore the app and its features for a one time 0.99$ fee",
     ],
   },
   {
     id: "1",
     title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
+    description: "Advanced features, priority support, your own customizable badge for your group",
+    price: "6.99 per month",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "An advance group chat features",
+      "Lower transaction fees and ad-less experience",
+      "Priority support to solve issues quickly and additional ad revenue for the user",
     ],
   },
   {
     id: "2",
     title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
+    description: "Custom UI for organization needs, advanced analytics, dedicated account",
     price: null,
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "All organization memebrs recieve premium version of app",
+      "Personalized UI to meet organization needs",
+      "Unlimited voice and video meetings, and custom badge for organization",
     ],
   },
 ];
