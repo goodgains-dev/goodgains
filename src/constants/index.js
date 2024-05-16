@@ -210,7 +210,7 @@ export const pricing = [
     id: "0",
     title: "freemium",
     description: "AI chatbot, personalized recommendations",
-    price: "0",
+    price: "0.99",
     features: [
       "A chatfeed that can understand your queries",
       "Personalized recommendations based on your preferences",
@@ -221,7 +221,7 @@ export const pricing = [
     id: "1",
     title: "Premium",
     description: "Advanced features, priority support, your own customizable badge for your group",
-    price: "6.99 per month",
+    price: "6.99",
     features: [
       "An advance group chat features",
       "Lower transaction fees and ad-less experience",
