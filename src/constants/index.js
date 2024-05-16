@@ -103,8 +103,8 @@ export const roadmap = [
   },
   {
     id: "1",
-    title: "Wallet functionality",
-    text: "utilizing stripe and coinbase pay integration every profile serves as your wallet as well..",
+    title: "Consolidated Profile",
+    text: "All your profile data populates seamlessly between our apps and your profile not only serves as your digital identity but also your payment processor thru blockchain technology.",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap2,
@@ -112,7 +112,7 @@ export const roadmap = [
   {
     id: "2",
     title: "Organization customization",
-    text: "Allow users to customize the App;s appearance and behavior, making it more engaging and fun to interact with for organization members.",
+    text: "Allow organization's to customize the App's appearance and behavior, making it more engaging and improving productivity for organization members.",
     date: "May 2023",
     status: "in progress",
     imageUrl: roadmap3,
