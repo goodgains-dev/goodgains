@@ -28,7 +28,7 @@ const Pricing = () => {
         </div>
 
         <Heading
-          tag="Get started with Brainwave"
+          tag="Get started with GoodGains"
           title="Pay once, use forever"
         />
 
