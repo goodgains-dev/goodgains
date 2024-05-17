@@ -79,7 +79,7 @@ export const companyLogos = [yourlogo, yourlogo, yourlogo, yourlogo, yourlogo];
 
 export const brainwaveServices = [
   "Data Ownership",
-  "Crednetials enhanced",
+  "Credentials enhanced",
   "Seamless Integration",
 ];
 
@@ -253,7 +253,7 @@ export const benefits = [
   {
     id: "1",
     title: "Data Ownership",
-    text: "The app is built on the blockchain which allows for decetralized data ownership where you own your digital identity.",
+    text: "The app is built on the blockchain which allows for decentralized data ownership where you own your digital identity.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
