@@ -39,7 +39,7 @@ const Hero = () => {
             Unleash the power of Blockchain within GoodGains. Upgrade your productivity
             with GoodGains, the open data chat app.
           </p>
-          <Button href="https://goodgainsgram.vercel.app/-/create-group" white>
+          <Button href="https://goodgainsgram.vercel.app/" white>
             Get started
           </Button>
         </div>
