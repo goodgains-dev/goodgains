@@ -103,8 +103,8 @@ export const roadmap = [
   },
   {
     id: "1",
-    title: "Consolidated Profile",
-    text: "All your profile data populates seamlessly between our apps and your profile not only serves as your digital identity but also your payment processor thru blockchain technology.",
+    title: "Profit Sharing",
+    text: "A percent of all revenue generated from advertisments between our apps will be distributed to users via our payment processor powered by blockchain technology.",
     date: "May 2023",
     status: "done",
     imageUrl: roadmap2,
