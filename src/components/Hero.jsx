@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of Blockchain within GoodGains. Upgrade your productivity
+            Utilize blockchain technology like never before. Upgrade your productivity
             with GoodGains, your digital third place.
           </p>
           <Button href="https://goodgainsgram.vercel.app/" white>
