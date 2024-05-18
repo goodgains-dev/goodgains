@@ -128,7 +128,7 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With our consolidation and top-notch security thru blocklchain, it's the perfect solution for teams looking to work smarter.";
+  "With our consolidation and badge system API thru blockchain, it's the perfect solution for teams looking to work smarter and identify themselves as a valued tem member. Our Badge sytem API seamlessly integrates into other apps.";
 
 export const collabContent = [
   {
