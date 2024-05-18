@@ -50,7 +50,7 @@ export const navigation = [
   {
     id: "2",
     title: "How to use",
-    url: "#how-to-use",
+    url: "https://portfolio-goatsonthemoons-projects.vercel.app/#about",
   },
   {
     id: "3",
@@ -60,13 +60,13 @@ export const navigation = [
   {
     id: "4",
     title: "New account",
-    url: "#signup",
+    url: "https://goodgainsgram.vercel.app/",
     onlyMobile: true,
   },
   {
     id: "5",
     title: "Sign in",
-    url: "#login",
+    url: "https://goodgainsgram.vercel.app/",
     onlyMobile: true,
   },
 ];
