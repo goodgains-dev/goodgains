@@ -49,8 +49,8 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "How to use",
-    url: "https://portfolio-goatsonthemoons-projects.vercel.app/#about",
+    title: "Learn More",
+    url: "https://portfolio-goatsonthemoons-projects.vercel.app",
   },
   {
     id: "3",
