@@ -208,8 +208,8 @@ export const collabApps = [
 export const pricing = [
   {
     id: "0",
-    title: "freemium",
-    description: "AI chatbot, personalized recommendations",
+    title: "Freemium",
+    description: "GoodGains Profile, personalized recommendations",
     price: "0.99",
     features: [
       "A chatfeed that can understand your queries",
