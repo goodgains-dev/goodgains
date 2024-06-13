@@ -69,8 +69,8 @@ const Roadmap = () => (
       </div>
 
       <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
-        <Button href="/roadmap">Our demo</Button>
-        <a href="https://www.youtube.com/watch?v=-CnL5aNUKK4"></a>
+        <Button href="https://www.youtube.com/watch?v=-CnL5aNUKK4">Our demo</Button>
+      
       </div>
     </div>
   </Section>
