@@ -214,7 +214,7 @@ export const pricing = [
     features: [
       "A chatfeed that can understand your queries",
       "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features for a one time 0.99$ fee",
+      "Ability to explore the app and its features for a one time $0.99 fee",
     ],
   },
   {
@@ -223,8 +223,8 @@ export const pricing = [
     description: "Advanced features, priority support, your own customizable badge for your group",
     price: "6.99",
     features: [
-      "An advance group chat features",
-      "Lower transaction fees and ad-less experience",
+      "Advanced group chat features",
+      "Lower transaction fees and an ad-less experience",
       "Priority support to solve issues quickly and additional ad revenue for the user",
     ],
   },
@@ -245,7 +245,7 @@ export const benefits = [
   {
     id: "0",
     title: "Instant Messanging",
-    text: "Lets users quickly message peers from organizations of all sorts.",
+    text: "Allows users to quickly message peers from organizations of all kinds.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
@@ -253,7 +253,7 @@ export const benefits = [
   {
     id: "1",
     title: "Data Ownership",
-    text: "The app is built on the blockchain which allows for decentralized data ownership where you own your digital identity.",
+    text: "The app is built on the blockchain, allowing for decentralized data ownership where you own your digital identity.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
