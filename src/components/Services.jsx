@@ -17,7 +17,7 @@ const Services = () => {
       <div className="container">
         <Heading
           title="Group chats made for Organizations."
-          text="GoodGains unlocks the potential of blockchain-powered applications"
+          text="Bring your team together."
         />
 
         <div className="relative">
