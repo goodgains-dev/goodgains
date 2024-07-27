@@ -2,9 +2,9 @@ import { companyLogos } from "../constants";
 
 const CompanyLogos = ({ className }) => {
   return (
-    <div className={className}>
+    <div className={`${className} mt-50`}> {/* Added margin-top class here */}
       <h5 className="tagline mb-6 text-center text-n-1/50">
-        Helping people connect worldwide at
+        Helping people connect worldwide 
       </h5>
       <ul className="flex">
         {companyLogos.map((logo, index) => (
